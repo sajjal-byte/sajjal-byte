@@ -1,6 +1,6 @@
 # Hi , Sajjal here
 
- BS CS Sophomore | Full Stack Web Developer
+ BS CS Sophomore | Full Stack Web Developer <br>
  Connect with me on **[LinkedIn](https://linkedin.com/in/sajjal-farooq)**
 
 ---
