@@ -1,4 +1,4 @@
-# Hi,Sajjal Here 
+# Hi, Sajjal Here 
 <br>CS Student | Full stack web developer | Aspiring devops engineer (trying my best)<br>Currently learning: DevOps/ AU python and mediapipe<br>Connect With Me on [linkedin](https://linkedin.com/in/sajjal-farooq)<br><br>
 
 # 💻 Tech Stack:
