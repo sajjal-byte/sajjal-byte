@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there , I'm Sajjal <br><br>CS Student | Full stack web developer | Aspiring devops engineer (trying my best)<br>Currently learning: DevOps/ AU python and mediapipe<br>📫 Connect With Me on linkedin<br><br><br><br>
+# Hi there , I'm Sajjal 
+<br>CS Student | Full stack web developer | Aspiring devops engineer (trying my best)<br>Currently learning: DevOps/ AU python and mediapipe<br>📫 Connect With Me on linkedin<br><br><br><br>
 
 
 ## 🌐 Socials:
