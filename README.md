@@ -1,14 +1,9 @@
-# Hi 👋, I'm Sajjal
+# Hi , Sajjal here
 
-🎓 BS Computer Science Student
+ BS CS Sophomore | Full Stack Web Developer
+ Currently learning **DevOps, AI with Python, and MediaPipe**
 
-💻 Full Stack Web Developer
-
-⚙️ Aspiring DevOps Engineer
-
-🌱 Currently learning **DevOps, AI with Python, and MediaPipe**
-
-📫 Connect with me on **[LinkedIn](https://linkedin.com/in/sajjal-farooq)**
+ Connect with me on **[LinkedIn](https://linkedin.com/in/sajjal-farooq)**
 
 ---
 
