@@ -1,8 +1,6 @@
 # Hi , Sajjal here
 
  BS CS Sophomore | Full Stack Web Developer
- Currently learning **DevOps, AI with Python, and MediaPipe**
-
  Connect with me on **[LinkedIn](https://linkedin.com/in/sajjal-farooq)**
 
 ---
