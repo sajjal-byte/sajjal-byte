@@ -42,11 +42,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sajjal-byte&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sajjal-byte&theme=prussian&hide_border=true&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sajjal-byte&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajjal-byte&theme=prussian&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjal-byte&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjal-byte&theme=prussian&hide_border=true&layout=compact)
 
 ---
 
