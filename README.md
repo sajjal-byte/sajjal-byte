@@ -1,14 +1,62 @@
-<h2>Hi, Sajjal Here</h2>  
-<br>CS Student | Full stack web developer | Aspiring devops engineer (trying my best)<br>Currently learning: DevOps/ AU python and mediapipe<br>Connect With Me on [linkedin](https://linkedin.com/in/sajjal-farooq)<br><br>
+# Hi 👋, I'm Sajjal
 
-<h2> 💻 Tech Stack:</h2>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-<h2> 📊 GitHub Stats:</h2>
-![](https://github-readme-stats.shion.dev/api?username=sajjal-byte&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sajjal-byte&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sajjal-byte&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+🎓 BS Computer Science Student
 
-<h2>✍️ Random Dev Quote</h2> 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💻 Full Stack Web Developer
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚙️ Aspiring DevOps Engineer
+
+🌱 Currently learning **DevOps, AI with Python, and MediaPipe**
+
+📫 Connect with me on **[LinkedIn](https://linkedin.com/in/sajjal-farooq)**
+
+---
+
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🛠 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+---
+
+## 📚 Currently Learning
+
+![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sajjal-byte&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajjal-byte&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjal-byte&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## ✨ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
