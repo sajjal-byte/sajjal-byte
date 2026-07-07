@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sajjal's%20Dev%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20BS%20CS%20Sophomore&descAlignY=58&descSize=18"/>
 
 <a href="https://linkedin.com/in/sajjal-farooq">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Launching+from+Pakistan+%F0%9F%9A%80;Currently+orbiting%3A+DevOps+%2B+CV%2FML;Say+hi+on+LinkedIn+%E2%86%92+sajjal-farooq&font=Fira+Code&center=true&width=650&height=45&color=C9A9FF&vCenter=true&size=20&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=from+Pakistan;Currently+focusing+on%3A+DevOps+%2B+CV%2FML;Say+hi+on+LinkedIn+%E2%86%92+sajjal-farooq&font=Fira+Code&center=true&width=650&height=45&color=C9A9FF&vCenter=true&size=20&pause=1500"/>
 </a>
 
 </div>
