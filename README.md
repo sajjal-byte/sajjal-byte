@@ -84,15 +84,10 @@ Every solar system needs a core — mine is cooking , cats , panic attacks and p
 
 <div align="center">
 <img src="https://github-readme-stats-livid-seven-95.vercel.app/api?username=sajjal-byte&theme=tokyonight&hide_border=true&show_icons=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjal-byte&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 <img src="https://github-readme-stats-livid-seven-95.vercel.app/api/top-langs/?username=sajjal-byte&theme=tokyonight&hide_border=true&layout=compact&hide_progress=true" height="165" alt="Top Languages"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&layout=horizontal" alt="Random Dev Quote"/>
-</div>
-
-<img width="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjI2IiB2aWV3Qm94PSIwIDAgOTAwIDI2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLWdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzA4MDYxYSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTUlIiBzdG9wLWNvbG9yPSIjNmM2M2ZmIiBzdG9wLW9wYWNpdHk9IjAuOSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2ZmOWY0MyIgc3RvcC1vcGFjaXR5PSIwLjkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI4NSUiIHN0b3AtY29sb3I9IiM2YzYzZmYiIHN0b3Atb3BhY2l0eT0iMC45Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA4MDYxYSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB4PSIwIiB5PSIxMiIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIyIiBmaWxsPSJ1cmwoI2xpbmUtZ3JhZCkiLz4KICA8Y2lyY2xlIGN4PSI0NTAiIGN5PSIxMyIgcj0iNCIgZmlsbD0iI2ZmZDY2YiIvPgogIDxjaXJjbGUgY3g9IjQxMCIgY3k9IjEzIiByPSIyIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8Y2lyY2xlIGN4PSI0OTAiIGN5PSIxMyIgcj0iMiIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC44Ii8+CiAgPGNpcmNsZSBjeD0iMTUwIiBjeT0iMTMiIHI9IjIuMiIgZmlsbD0iIzdlZThmYSIgb3BhY2l0eT0iMC44NSIvPgogIDxjaXJjbGUgY3g9Ijc1MCIgY3k9IjEzIiByPSIyLjIiIGZpbGw9IiNlMGMzZmMiIG9wYWNpdHk9IjAuODUiLz4KPC9zdmc+Cg==" alt="divider"/>
+<img width="100%" height="2" src="https://raw.githubusercontent.com/sajjal-byte/sajjal-byte/main/divider.svg" alt="divider"/>
 
 <div align="center">
 
